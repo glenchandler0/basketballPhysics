@@ -1,0 +1,40 @@
+This is a two player 
+game where one player
+shoots objects at the 
+hoop to gain points, 
+and another player tries
+to block the shots by 
+jumping.
+
+-Controlling the shooter:
+All this player requires 
+is the mouse. The large yellow 
+square is stationary and 
+does not move, every shot
+by the player will come from
+here, regardless of where
+the mouse is clicked. Holding
+down the mouse button, dragging
+it, and releasing it, will create
+a vector into which an object will 
+then follow. It is almost identical 
+to the mechanics of "Angry Birds".
+Almost.
+
+-Controlling the blocker:
+All this player requires is the 
+'W', 'A', and 'D' keys. 'W' is to jump,
+where the blue square will jump 
+and hopefully knock down the ball by 
+hitting it. The 'A' and 'D' keys are for 
+moving left and right. These keys set the
+velocity of the large blue square to create
+a sliding motion. If you hold it down, you 
+increase velocity very quickly, and may not
+be able to block the balls accurately. Beware.
+As a the blocker, you can interact with all 
+objects besides the basketball hoop
+and the shooter. 
+
+Menu picture credits:
+http://wallfoy.com/kobe-dunk-3-111613-wallpapers-HD.html
